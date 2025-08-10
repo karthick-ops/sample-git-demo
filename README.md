@@ -40,7 +40,7 @@ Currently advancing my expertise in **DevOps** and **Cloud Computing** to archit
 
 ## Education & Certifications
 - Bachelor of Computer Science, Tiruvallur University (2018–2021)
-- Cisco Certified Network Associate (CCNA) CERTIFICATE ID: NR-KARCCN-9371
+- Cisco Certified Network Associate (CCNA) **CERTIFICATE ID: NR-KARCCN-9371**
 
 ---
 
